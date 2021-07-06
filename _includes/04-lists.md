@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Apples 
+  * Apple Juice
+* Bananas
+  * Banana Smoothie
+  * Banana Puree
